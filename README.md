@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars2.githubusercontent.com/u/53950128?s=460&u=09f530e3326f710c4e0f9106f094eeea5429f86d&v=4" width="128" height="128"/>
+<img src="https://4.bp.blogspot.com/-WwownzMOOfk/ThLMTWUqvRI/AAAAAAAABL8/D0_V9TApeCY/s1600/23.jpg" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -36,7 +36,7 @@ This project require NodeJS v12.
 Clone this project
 
 ```bash
-> git clone https://github.com/lulukcan/whatsapp-bot.git
+> git clone https://github.com/lulukcan/botlac.git
 > cd whatsapp-bot
 ```
 
