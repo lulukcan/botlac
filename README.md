@@ -23,7 +23,7 @@
  
 </details>
 
-bantu kontribusi dengan cara pull request atau request di issues
+bantu untuk mendukung bot ini kamu dapat membantu dengan berdonasi
 </div>
 
 ## Getting Started
