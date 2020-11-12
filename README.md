@@ -35,7 +35,7 @@ Clone this project
 
 ```bash
 > git clone https://github.com/lulukcan/botlac.git
-> cd whatsapp-bot
+> cd botlac
 ```
 
 Install the dependencies:
