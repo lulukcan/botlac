@@ -7,8 +7,6 @@
 <p align="center">
 <a href="https://wfacebook.com/lulukari.id/"><img title="Author" src="https://img.shields.io/badge/AUTHOR-LULUK-orange"></a>
 </p>
-<p align="center">
-<a href="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/badge/master"></a>
 </p>
 <p align="center">
 <a href="https://github.com/lulukcan/followers"><img title="Followers" src="https://img.shields.io/github/followers/arugaz?color=blue&style=flat-square"></a>
